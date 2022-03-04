@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**jamesxwang/jamesxwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇳 ✈️ 🇦🇺
 
-Here are some ideas to get you started:
+This is James, a FrontEnd Developer at Tencent, graduated from the University of Melbourne.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me 📧
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/james-wang-cn/).
+- 📫 Reach me at: jameswangx95@gmail.com.
+- 🌐 Visit my personal website [here](https://jamesxwang.com/).
+
+### Cheers 🍻
+
+![](https://img.shields.io/github/stars/jamesxwang?affiliations=OWNER%2CCOLLABORATOR) ![](https://img.shields.io/github/followers/jamesxwang)
+
+![](https://github-readme-stats.vercel.app/api?username=jamesxwang&theme=blueberry)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesxwang&theme=blueberry&show_icons=true) -->
