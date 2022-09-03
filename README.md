@@ -2,7 +2,7 @@
 
 🇨🇳 ✈️ 🇦🇺
 
-This is James, a FrontEnd Developer at Tencent, graduated from the University of Melbourne.
+This is James, Software Engineer@[Airwallex](https://airwallex.com/), ex FrontEnd Developer@[Tencent Cloud](https://intl.cloud.tencent.com/), graduated from the University of Melbourne.
 
 ### Contact me 📧
 
